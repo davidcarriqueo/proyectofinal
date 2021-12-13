@@ -91,27 +91,27 @@ h1>a {
     background-position-y: center;
 }
 .dos{
-    background-image: url(css/img/img2/DSC_0150-2.jpg);
+    background-image: url(../css/img/img2/DSC_0150-2.jpg);
     background-size: cover;
     background-position-y: center;
 }
 .tres{
-    background-image: url(css/img/img2/DSC_0167-3.jpg);
+    background-image: url(../css/img/img2/DSC_0167-3.jpg);
     background-size: cover;
     background-position-y: center;
 }
 .cuatro{
-    background-image: url(css/img/img2/DSC_0114-4.jpg);
+    background-image: url(../css/img/img2/DSC_0114-4.jpg);
     background-size: cover;
     background-position-y: center;
 }
 .quinto{
-    background-image: url(css/img/img2/DSC_0172-5.jpg);
+    background-image: url(../css/img/img2/DSC_0172-5.jpg);
     background-size: cover;
     background-position-y: center;
 }
 .sexto{
-    background-image: url(css/img/img2/DSC_0801-6.jpg);
+    background-image: url(../css/img/img2/DSC_0801-6.jpg);
     background-size: cover;
     background-position-y: center;
 }
