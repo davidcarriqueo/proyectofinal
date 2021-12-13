@@ -61,11 +61,15 @@ h1>a {
 
 
 /*about*/
-
-.about{
+p{
     padding-left: 5%;
     padding-right: 5%;
     font-weight: bold;
+}
+.about{
+    padding-left: 5%;
+ 
+   
     height: 100vh;
 }
 .container{
