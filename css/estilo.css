@@ -1,0 +1,132 @@
+/*imagen de fondo */
+.imgbackground{
+    background-image:url(../css/img/background1.jpg) ;
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position:center;
+}
+/*texto principal nombre*/
+.marca {
+    font-size: 300%;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: 'Merriweather', serif;
+    color: black;
+}
+.index{
+    height: 100vh;
+}
+.nombre{
+    padding:5%;
+    height: 20vh;
+}
+.subtitulo{
+    font-family: 'Merriweather', serif;
+    color: black;
+    font-size: 30px;
+    
+}
+
+
+/*navegacion*/
+
+ul {
+    list-style:none;
+    
+}
+
+
+
+li>a {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+
+h1>a {
+    text-decoration: none;
+    color: black;
+}
+.navegacion-lista{
+    display:grid;
+    justify-content: space-between;
+    margin-top: 20vh;
+    font-family: 'Merriweather', serif;
+    padding-left: 5%;  
+    
+}
+
+
+/*about*/
+
+.about{
+    padding-left: 5%;
+    height: 100vh;
+}
+.container{
+    height: 100%;
+}
+
+    
+
+/*carousel*/
+.caja{
+    height: 100vh;
+}
+#carouselExampleControls{
+   
+   
+    margin-left:20vw;
+    margin-right: 15vw;
+    margin-bottom: 10vh;
+   
+}
+/*imagen de la grilla- galeria*/
+.uno{
+    background-image: url(/css/img/img1/DSC_0003.jpg);
+    background-size: cover;
+    background-position-y: center;
+}
+.dos{
+    background-image: url(/css/img/img2/DSC_0150-2.jpg);
+    background-size: cover;
+    background-position-y: center;
+}
+.tres{
+    background-image: url(/css/img/img2/DSC_0167-3.jpg);
+    background-size: cover;
+    background-position-y: center;
+}
+.cuatro{
+    background-image: url(/css/img/img2/DSC_0114-4.jpg);
+    background-size: cover;
+    background-position-y: center;
+}
+.quinto{
+    background-image: url(/css/img/img2/DSC_0172-5.jpg);
+    background-size: cover;
+    background-position-y: center;
+}
+.sexto{
+    background-image: url(/css/img/img2/DSC_0801-6.jpg);
+    background-size: cover;
+    background-position-y: center;
+}
+.titulo{
+    font-family: 'Merriweather', serif;
+    color:rgb(180, 140, 87);
+    text-decoration: none;
+    font-size: 50px;
+    
+}
+
+.col {
+    
+  height: 30vh;
+  border-style: groove;
+    
+}
+
