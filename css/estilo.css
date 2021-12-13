@@ -64,6 +64,8 @@ h1>a {
 
 .about{
     padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
     height: 100vh;
 }
 .container{
