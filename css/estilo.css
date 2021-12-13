@@ -86,7 +86,7 @@ h1>a {
 }
 /*imagen de la grilla- galeria*/
 .uno{
-    background-image: url(css/img/img1/DSC_0003.jpg);
+    background-image: url(../css/img/img1/DSC_0003.jpg);
     background-size: cover;
     background-position-y: center;
 }
